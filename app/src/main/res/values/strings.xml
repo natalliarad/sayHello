@@ -1,8 +1,8 @@
 <resources>
-    <string name="app_name">SayHello</string>
-    <string name="message_start">Click the SUBSCRIBE TO WEATHER button below to subscribe to the
+    <string name="quickstart_message">Click the SUBSCRIBE TO WEATHER button below to subscribe to the
         weather topic. Messages sent to the weather topic will be received. The LOG TOKEN button logs the
-        InstanceID token to logcat.</string>
+        InstanceID token to logcat.
+    </string>
     <string name="subscribe_to_weather">Subscribe To Weather</string>
     <string name="log_token">Log Token</string>
 
@@ -17,4 +17,5 @@
     <string name="default_notification_channel_name" translatable="true">Weather</string>
     <string name="message_subscribe_failed">Failed to subscribe to weather topic</string>
     <string name="fcm_message">FCM Message</string>
+    <string name="firebase_logo">Firebase logo</string>
 </resources>
